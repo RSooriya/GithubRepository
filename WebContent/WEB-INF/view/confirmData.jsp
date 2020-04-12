@@ -10,6 +10,7 @@
 </head>
 <body>
 <h2>Successfully Registered</h2>
+<h3>Changes to github repository</h3>
 Name: ${student.firstName } ${student.lastName }<br>
 Skills:<br>
 <c:forEach var="temp" items="${student.skills }">
